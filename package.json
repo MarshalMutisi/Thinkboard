@@ -1,0 +1,21 @@
+{
+  "name": "mern_stack_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build --prefix frontend && npm run build --prefix backend && npm run build --prefix",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarshalMutisi/Thinkboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarshalMutisi/Thinkboard/issues"
+  },
+  "homepage": "https://github.com/MarshalMutisi/Thinkboard#readme",
+  "description": ""
+}
